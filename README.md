@@ -6,18 +6,18 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 ## Day 1
 
 #### Planning
-- [ ] Complete the project planning document.
+- [x] Complete the project planning document.
 #### Set-Up
 - [x] Go to the repository at https://github.com/ScriptEdcurriculum/rockpaperscissors
-- [ ] Fork this repository to your github account and clone to a new workspace
-- [ ] Add, commit, and push your changes
-- [ ] Make your site live on gh-pages
+- [x] Fork this repository to your github account and clone to a new workspace
+- [x] Add, commit, and push your changes
+- [x] Make your site live on gh-pages
 
 ### HTML
 - [ ] Add any more HTML elements you will need to the page
 
 ### JavaScript
-- [ ] Add a click handler that displays the value of the input within the div with the id `#userChoice`
+- [x] Add a click handler that displays the value of the input within the div with the id `#userChoice`
 
 #### Wrap
 - [ ] Push your changes!
@@ -49,8 +49,8 @@ In this unit, coders will create a Rock, Paper, Scissors game. The Rock, Paper, 
 
 ## Projects Extensions:
 - [ ] Style the page to fit your personality
-- [ ] Validates input so that it will return “Not valid input” if the user types in a wrong choice. 
-- [ ] Accepts any form of a word regardless of capitalization (i.e. “Rock” “rock” roCk”)
+- [x] Validates input so that it will return “Not valid input” if the user types in a wrong choice. 
+- [x] Accepts any form of a word regardless of capitalization (i.e. “Rock” “rock” roCk”)
 - [ ] Keeps track of total wins and losses, until the page refreshes. 
 - [ ] Create a game with more variety in throwing options. Example: [Rock-Paper-Scissors-Lizard-Spock](http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock)
 
