@@ -43,7 +43,6 @@ $("#shoot").click(function(){
    $("#totaltimes").text(times);
    $("#wins").text(wins);
    $("#losses").text(losses);
-   
 });
 
 
@@ -85,3 +84,4 @@ $("#paper").click(function(){
     $("#wins").text(wins);
     $("#losses").text(losses);
 });
+
